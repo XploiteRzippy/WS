@@ -1,0 +1,1 @@
+Ignore Node.js module foldersnode_modules/Ignore environment variables file (CRITICAL for security).envLogs and other generated filesnpm-debug.log*.log
